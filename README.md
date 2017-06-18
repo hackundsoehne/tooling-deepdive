@@ -2,7 +2,7 @@
 
 All slides to our deep dive are found here.
 
-Additionally you can chek out the [tooling-cheatsheet](https://github.com/hackundsoehne/tooling-cheatsheet) here, where you will find all kinds of useful information, including sample configs to tools that were presented.
+Additionally you can check out the [tooling-cheatsheet](https://github.com/hackundsoehne/tooling-cheatsheet) here, where you will find all kinds of useful information, including sample configs for tools that were presented.
 
 ### Check out us out on:
 - **Website:** https://hackundsoehne.de
